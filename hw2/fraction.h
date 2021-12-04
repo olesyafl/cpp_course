@@ -1,6 +1,3 @@
-#ifndef FRACTION_H
-#define FRACTION_H
-
 /**
   * Реализовать класс для работы с дробными числами.
   * Он должен содержать:
@@ -9,6 +6,9 @@
   * - конструктор;
   * - методы для сложения, вычитания, умножения, деления, сравнения дробных чисел.
   */
+
+#ifndef FRACTION_H
+#define FRACTION_H
 
 #include <iostream>
 #include <cassert>
