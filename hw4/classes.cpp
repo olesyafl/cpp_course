@@ -48,7 +48,7 @@ void Square::print()
     std::cout << "The perimeter and area of this square:\nP = " << calcPerimeter() << "\nS = " << calcArea() << "\n\n";
 }
 
-
+/////////////////////////////////////////////////////////////////////////////
 /** Прямоугольник **/
 
 
@@ -70,7 +70,7 @@ void Rectangle::print()
     std::cout << "The perimeter and area of this rectangle:\nP = " << calcPerimeter() << "\nS = " << calcArea() << "\n\n";
 }
 
-
+/////////////////////////////////////////////////////////////////////////////
 /** Треугольник **/
 
 
@@ -92,7 +92,7 @@ void Triangle::print()
     std::cout << "The perimeter and area of this triangle:\nP = " << calcPerimeter() << "\nS = " << calcArea() << "\n\n";
 }
 
-
+/////////////////////////////////////////////////////////////////////////////
 /** Круг **/
 
 
@@ -114,7 +114,7 @@ void Circle::print()
     std::cout << "The perimeter and area of this circle:\nP = " << calcPerimeter() << "\nS = " << calcArea() << "\n\n";
 }
 
-
+/////////////////////////////////////////////////////////////////////////////
 /** Куб **/
 
 
@@ -142,7 +142,7 @@ void Cube::print()
                  "\nS = " << calcArea() << "\nV = " << calcVolume() << "\n\n";
 }
 
-
+/////////////////////////////////////////////////////////////////////////////
 /** Шар **/
 
 
